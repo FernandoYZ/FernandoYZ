@@ -4,11 +4,11 @@ Soy un estudiante en Ingeniero de Sistemas apasionado por el **Backend** y el **
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente, estoy trabajando en proyectos de backend y análisis de datos.
-- 🌱 Estoy aprendiendo y mejorando constantemente en **Machine Learning** y **DevOps**.
-- 🤔 Busco colaborar en proyectos de **open source** y trabajar con equipos de desarrollo innovadores.
-- 💬 Puedes preguntarme sobre **Python**, **SQL**, **Docker**, **API REST**, y **análisis de datos**.
-- 📫 ¿Quieres colaborar o platicar? Escríbeme a [fernandozavala266@gmail.com](mailto:fernandozavala266@gmail.com).
+- Actualmente, estoy trabajando en proyectos de backend y análisis de datos.
+- Estoy aprendiendo y mejorando constantemente en **Machine Learning** y **DevOps**.
+- Busco colaborar en proyectos de **open source** y trabajar con equipos de desarrollo innovadores.
+- Puedes preguntarme sobre **Python**, **SQL**, **Docker**, **API REST**, y **análisis de datos**.
+- ¿Quieres colaborar o platicar? Escríbeme a [fernandozavala266@gmail.com](mailto:fernandozavala266@gmail.com).
 
 ## 💻 Habilidades Técnicas
 
